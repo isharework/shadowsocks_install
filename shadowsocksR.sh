@@ -20,7 +20,7 @@ echo "#############################################################"
 echo
 
 libsodium_file="libsodium-1.0.16"
-libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.16/libsodium-1.0.16.tar.gz"
+libsodium_url="https://codeload.github.com/isharework/libsodium/tar.gz/1.0.16"
 
 #Current folder
 cur_dir=`pwd`
